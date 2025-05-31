@@ -16,25 +16,26 @@ Here are some ideas to get you started:
 
 # 菲兹 | Faiz 👋
 
-// 基本信息展示
+<!--  基本信息展示 -->
 I'm **Faiz** 👨‍💻, a Full Stack Developer based in Beijing 📍  
 🚀 Passionate about building open-source tools and contributing to the community.
 
-// 添加徽章（Badges）
+<!--  添加徽章（Badges） -->
 [![GitHub followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/username)
 [![Twitter](https://img.shields.io/twitter/follow/your-handle?style=social&logo=twitter)](https://twitter.com/your-handle)
 
-// 添加徽章（Badges）
+<!--  项目展示 -->
 ## 📦 Featured Projects
 
 - **[Awesome-Tool](https://github.com/username/awesome-tool)**:  A CLI tool for developers.
 - **[Cool-Website](https://github.com/username/cool-website)**:  My personal portfolio.
 
-// 添加徽章（Badges）
+
+<!--  GitHub Stats 卡片 -->
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&show_icons=true)](https://github.com/username)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=username)](https://github.com/username)
 
-// 添加徽章（Badges）
+<!--  社交媒体链接 -->
 ## 📱 Connect With Me
 
 - [Twitter](https://twitter.com/your-handle) 
