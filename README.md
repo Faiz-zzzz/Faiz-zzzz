@@ -21,8 +21,10 @@ I'm **Faiz** 👨‍💻, a Full Stack Developer based in Beijing 📍
 🚀 Passionate about building open-source tools and contributing to the community.
 
 <!--  添加徽章（Badges） -->
-[![CILIKUBE](https://img.shields.io/badge/CILIKUBE_-Contributor-%252328a745?style=flat&logo=kubernetes&labelColor=white)](https://github.com/Faiz-zzzz)
+[![CILIKUBE]([https://img.shields.io/badge/CILIKUBE_-Contributor-%252328a745?style=flat&logo=kubernetes&labelColor=white](https://camo.githubusercontent.com/389f21b63b9c897c4d22c935ca9989fe5916bf077dadd13de7abaac9aaf64e11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43494c494b5542455f2d436f7265253230446576656c6f7065722d2532334646443730303f7374796c653d666c6174266c6f676f3d6b756265726e65746573266c6162656c436f6c6f723d626c61636b))](https://github.com/Faiz-zzzz)
+
 <!-- 
+
 <!--  项目展示 -->
 ## 📦 Featured Projects
 
